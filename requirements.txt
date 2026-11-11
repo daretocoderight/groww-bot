@@ -1,0 +1,6 @@
+growwapi            # Groww Trade API SDK
+pyotp               # only if using GROWW_TOTP_SECRET login
+# Optional FinBERT sentiment (~400 MB+). Only worth it with a real headline feed
+# writing data/headlines.txt; enable with ORB_USE_FINBERT=1.
+# torch
+# transformers
